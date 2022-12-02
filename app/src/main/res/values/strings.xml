@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">retrofit_GITA</string>
+    <string name="welcome">Welcome</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="log_in">Log In</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="create_account">Create Account</string>
+</resources>
